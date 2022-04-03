@@ -1,0 +1,6 @@
+framework module Pods_TextAreaChips_TextAreaChipsUITests {
+  umbrella header "Pods-TextAreaChips-TextAreaChipsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
